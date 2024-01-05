@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gusakov Sergey
-- :man_technologist: I’m interested in Express/Nest Js development with Redux Toolkit
-- 🌱 I’m currently learning TS, Advanced react featchures
+- :man_technologist: I’m interested in Express/Golang
+- 🌱 I’m currently learning  Advanced react featchures
 - 📫 sktl.gg@mail.ru
 
 ### 😮 I speak:

@@ -19,13 +19,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgress" alt="Postgress" width="40" height="40"/>&nbsp;
 </div>
-
+https://www.codewars.com/users/sktl46/badges/large
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sktl9&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sktl9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg](https://www.codewars.com/users/sktl46/badges/large)" title="CodeWars" alt="CodeWars" />&nbsp;
 <!-- 
 [<div><img align="left" src="/metrics.classic.svg"></div>](#)
 [<img align="left" src="/metrics.plugin.languages.details.svg"> ](#)

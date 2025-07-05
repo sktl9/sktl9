@@ -4,7 +4,7 @@
 - 📫 sktl.gg@mail.ru
 
 ### 😮 I speak:
-- English B2-C1
+- English B2
 - Russian native
 
 
